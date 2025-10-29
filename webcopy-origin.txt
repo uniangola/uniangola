@@ -1,0 +1,568 @@
+Uri: https://cdn.converteai.net/17072154-e7a8-4f39-9a9b-7531f82ec90f/67f61d89500585f3813a27fb/main.m3u8
+File Name: C:\Downloaded Web Sites\uniangola.com\17072154-e7a8-4f39-9a9b-7531f82ec90f\67f61d89500585f3813a27fb\main.m3u8
+Content Type: application/x-mpegurl
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\uniangola.com\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://images.converteai.net/17072154-e7a8-4f39-9a9b-7531f82ec90f/players/67f61e12a611335688097a04/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\17072154-e7a8-4f39-9a9b-7531f82ec90f\players\67f61e12a611335688097a04\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://liberagencia.com/wp-content/plugins/elementor/assets/images/placeholder.png
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\elementor\assets\images\placeholder.png
+Content Type: image/png
+
+Uri: https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js
+File Name: C:\Downloaded Web Sites\uniangola.com\lib\js\smartplayer\v1\smartplayer.min.js
+Content Type: application/javascript
+
+Uri: https://uniangola.com/angola-ln/
+File Name: C:\Downloaded Web Sites\uniangola.com\angola-ln\index-1.htm
+Content Type: text/html
+
+Uri: https://uniangola.com/angola-ln/?sub1=68fe4c05a45df
+File Name: C:\Downloaded Web Sites\uniangola.com\angola-ln\index.htm
+Content Type: text/html
+
+Uri: https://uniangola.com/comments/feed/
+File Name: C:\Downloaded Web Sites\uniangola.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://uniangola.com/feed/
+File Name: C:\Downloaded Web Sites\uniangola.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://uniangola.com/wp-content/cache/min/1/scripts/utms/latest.js?ver=1760750911
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\cache\min\1\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/cache/min/1/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=1760750911
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\cache\min\1\wp-content\plugins\pixelyoursite\dist\scripts\public.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.17.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://uniangola.com/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://uniangola.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/plugins/elementor/assets/mask-shapes/circle.svg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\elementor\assets\mask-shapes\circle.svg
+Content Type: image/svg+xml
+
+Uri: https://uniangola.com/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=6.8.3
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\pixelyoursite\dist\scripts\jquery.bind-first-0.2.3.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\pixelyoursite\dist\scripts\js.cookie-2.1.3.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/plugins/pixelyoursite/dist/scripts/tld.min.js?ver=2.3.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\pixelyoursite\dist\scripts\tld.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/plugins/wp-rocket/assets/img/youtube.png
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\wp-rocket\assets\img\youtube.png
+Content Type: image/png
+
+Uri: https://uniangola.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\plugins\wp-rocket\assets\js\lazyload\17.5\lazyload.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://uniangola.com/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://uniangola.com/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://uniangola.com/wp-content/uploads/2024/10/13-150x150.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2024\10\13-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2024/10/13.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2024\10\13.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2024/10/4-150x150.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2024\10\4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2024/10/4.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2024\10\4.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2024/10/7-150x150.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2024\10\7-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2024/10/7.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2024\10\7.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/circle-icon.svg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\circle-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Bold.eot
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Bold.eot?
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Bold.ttf
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Bold.woff
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Bold.woff2
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Medium.eot
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Medium.eot?
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Medium.svg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Medium.ttf
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Medium.woff
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Medium.woff2
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Regular.eot
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Regular.eot?
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Regular.svg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Regular.ttf
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Regular.woff
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-Regular.woff2
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-SemiBold.eot
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-SemiBold.eot?
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-SemiBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-SemiBold.svg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-SemiBold.svg
+Content Type: image/svg+xml
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-SemiBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-SemiBold.woff
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://uniangola.com/wp-content/uploads/2025/08/Poppins-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\08\Poppins-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/05meningitis-span-articleLarge-1-300x184.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\05meningitis-span-articleLarge-1-300x184.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/05meningitis-span-articleLarge-1.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\05meningitis-span-articleLarge-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/ATA_Diretoria_UNI_Angola_Corrigida_page-0001-212x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\ATA_Diretoria_UNI_Angola_Corrigida_page-0001-212x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/ATA_Diretoria_UNI_Angola_Corrigida_page-0001.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\ATA_Diretoria_UNI_Angola_Corrigida_page-0001.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Bann-1-300x113.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Bann-1-300x113.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Bann-1-768x288.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Bann-1-768x288.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Bann-1.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Bann-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Banner-300x113.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Banner-300x113.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Banner-768x288.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Banner-768x288.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Banner.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Banner.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/CNPJ_page-0001-212x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\CNPJ_page-0001-212x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/CNPJ_page-0001.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\CNPJ_page-0001.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0002-212x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0002-212x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0002.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0002.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0003-212x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0003-212x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0003.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0003.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0004-212x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0004-212x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0004.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0004.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0005-212x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0005-212x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0005.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0005.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0006-212x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0006-212x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0006.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0006.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0007-212x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0007-212x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0007.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0007.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0008-212x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0008-212x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0008.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\DOCUMENTOS_UNIFICADOS_UNI_ANGOLA_page-0008.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-1.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-150x150.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-2-300x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-2.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-3-150x150.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-3-300x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-3-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-3.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-300x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-4-150x150.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-4-300x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-4-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-4.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-4.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-5-150x150.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-5-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-5-300x300.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-5-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-5.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-5.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-6.png
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-6.png
+Content Type: image/png
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-7.png
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-7.png
+Content Type: image/png
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-8.png
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-8.png
+Content Type: image/png
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download-9.png
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download-9.png
+Content Type: image/png
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/download.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\download.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/PHOTO-2020-05-11-10-51-50-2-300x200.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\PHOTO-2020-05-11-10-51-50-2-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/PHOTO-2020-05-11-10-51-50-2-768x512.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\PHOTO-2020-05-11-10-51-50-2-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/PHOTO-2020-05-11-10-51-50-2.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\PHOTO-2020-05-11-10-51-50-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Pp-1-300x111.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Pp-1-300x111.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Pp-1.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Pp-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Pp-2-300x111.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Pp-2-300x111.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Pp-2.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Pp-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Pp-3-300x111.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Pp-3-300x111.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Pp-3.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Pp-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/sos-madagascar_editada_2024-5-1-1-1024x546.jpeg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\sos-madagascar_editada_2024-5-1-1-1024x546.jpeg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/sos-madagascar_editada_2024-5-1-1-300x160.jpeg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\sos-madagascar_editada_2024-5-1-1-300x160.jpeg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/sos-madagascar_editada_2024-5-1-1-768x410.jpeg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\sos-madagascar_editada_2024-5-1-1-768x410.jpeg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/sos-madagascar_editada_2024-5-1-1.jpeg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\sos-madagascar_editada_2024-5-1-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/Uni-Ang.png
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\Uni-Ang.png
+Content Type: image/png
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/UNI213059-1-1024x682.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\UNI213059-1-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/UNI213059-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\UNI213059-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/UNI213059-1-768x512.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\UNI213059-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/2025/10/UNI213059-1.jpg
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\2025\10\UNI213059-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.com/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1761207608
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\elementor\css\custom-frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://uniangola.com/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1761207608
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\elementor\css\custom-pro-frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://uniangola.com/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1761242131
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-content\uploads\elementor\css\custom-widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://uniangola.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://uniangola.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://uniangola.com/wp-json/
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://uniangola.com/wp-json/oembed/1.0/embed?url=https:%2F%2Funiangola.com%2Fangola-ln%2F
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://uniangola.com/wp-json/oembed/1.0/embed?url=https:%2F%2Funiangola.com%2Fangola-ln%2F&format=xml
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://uniangola.com/wp-json/wp/v2/pages/10147
+File Name: C:\Downloaded Web Sites\uniangola.com\wp-json\wp\v2\pages\10147
+Content Type: application/json
+
+Uri: https://uniangola.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\uniangola.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.facebook.com/tr?id=1446142663102300&ev=PageView&noscript=1&cd[page_title]=Angola+Ln&cd[post_type]=page&cd[post_id]=10147&cd[plugin]=PixelYourSite&cd[user_role]=guest&cd[event_url]=uniangola.com%2Fangola-ln%2F
+File Name: C:\Downloaded Web Sites\uniangola.com\tr
+Content Type: text/plain
+
